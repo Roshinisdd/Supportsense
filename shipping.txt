@@ -1,0 +1,7 @@
+   Standard Shipping: Delivery takes 4 to 6 business days. Shipping is free for orders above 500 rupees.
+
+   Express Shipping: Delivery takes 1 to 2 business days and costs 150 rupees.
+
+   Order Tracking: Customers receive a tracking link by email and SMS once the order is shipped.
+
+   Cancellation: Orders can be cancelled before they are shipped. After shipping, the customer must use the return process.
